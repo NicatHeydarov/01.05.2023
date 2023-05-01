@@ -1,0 +1,75 @@
+body{
+    background-color: rgba(114, 234, 250, 0.744) ;
+}
+
+.bacground{
+    margin-left: 180px;
+    margin-top: 80px;
+    width: 750px;
+    height: 470px;
+    background-color: white;
+    
+    .icons{
+        .fa-sharp {
+            margin-top: 50px;
+            margin-left: 60px;
+        }
+        .Adress{
+            margin-left: 50px;
+        }
+    }
+    .icons2{
+        .fa-solid{
+            margin-left: 60px;
+        }
+        .Phone{
+            margin-left: 60px;
+        }
+      
+    }
+    .icon3{
+
+        .fa-solid{
+
+            margin-left: 65px;
+        }
+        .mail{
+            margin-left: 60px;
+        }
+
+        
+    }
+    
+    .dot{
+      
+        display: flex;
+        margin-left: 200px;
+        margin-top: -500px;
+        width: 2px;
+        height: 290px;
+        background-color:gray;
+    }
+    .writing{
+        .first{
+            margin-left: 240px;
+            margin-top: -350px;
+            color: rgb(114, 48, 219);
+        }
+        .second{
+            margin-left: 230px;
+            margin-top: -10px;
+            color: rgb(114, 48, 219);
+
+        }
+        .form{
+            margin-left: 220px;
+            width: 1000px;
+          
+        }
+
+    }
+}
+.writing{
+    
+    color: rgb(25, 110, 150);
+}

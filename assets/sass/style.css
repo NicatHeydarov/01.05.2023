@@ -1,0 +1,56 @@
+body {
+  background-color: rgba(114, 234, 250, 0.744);
+}
+
+.bacground {
+  margin-left: 180px;
+  margin-top: 80px;
+  width: 750px;
+  height: 470px;
+  background-color: white;
+}
+.bacground .icons .fa-sharp {
+  margin-top: 50px;
+  margin-left: 60px;
+}
+.bacground .icons .Adress {
+  margin-left: 50px;
+}
+.bacground .icons2 .fa-solid {
+  margin-left: 60px;
+}
+.bacground .icons2 .Phone {
+  margin-left: 60px;
+}
+.bacground .icon3 .fa-solid {
+  margin-left: 65px;
+}
+.bacground .icon3 .mail {
+  margin-left: 60px;
+}
+.bacground .dot {
+  display: flex;
+  margin-left: 200px;
+  margin-top: -500px;
+  width: 2px;
+  height: 290px;
+  background-color: gray;
+}
+.bacground .writing .first {
+  margin-left: 240px;
+  margin-top: -350px;
+  color: rgb(114, 48, 219);
+}
+.bacground .writing .second {
+  margin-left: 230px;
+  margin-top: -10px;
+  color: rgb(114, 48, 219);
+}
+.bacground .writing .form {
+  margin-left: 220px;
+  width: 1000px;
+}
+
+.writing {
+  color: rgb(25, 110, 150);
+}/*# sourceMappingURL=style.css.map */
